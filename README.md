@@ -19,23 +19,7 @@ Elle est développée dans le cadre de l'*[ANR Numalyse](https://anr.fr/Projet-A
 
 ## ▶️ Télécharger l'application
 
-Vous pouvez cliquez sur les liens ci-dessous :
-
-<div align="center">
-
-| Windows | MacOS |
-|----|----|
-| [version Windows](https://upvdrive.univ-montp3.fr/s/sGeQYjnFTj5EQ9J) | [version ARM](https://upvdrive.univ-montp3.fr/s/LkknwPq2jA8tkgT) <br> [version INTEL](https://upvdrive.univ-montp3.fr/s/zRWktSW53HAjMNP) |
-
-*(Dernière version disponible : 2026-06-05)*
- 
- </div>
-
-## ⚠️ Informations (2026-06-10) : 
-    - Une mise à jour doit être faite pour la version ARM dont l'app ne s'ouvre pas.
-    - Une mise à jour doit être faite pour la version Intel concernant la segmentation automatique qui ne fonctionne pas.
-
- 
+[Accéder à la page de téléchargement](https://numalyse.github.io/) 
 
 ## ℹ️ Foire aux questions
 
