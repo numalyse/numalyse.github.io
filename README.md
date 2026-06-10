@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/numalyse/SLV/blob/main/Ressources/logo/numalyse_player_logo.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/numalyse/SLV/refs/heads/main/Ressources/logo/numalyse_player_logo.png" width="100" height="100">
 
 </div>
 
