@@ -31,9 +31,9 @@ Vous pouvez cliquez sur les liens ci-dessous :
  
  </div>
 
-## ⚠️ Informations (2026-06-09) : 
+## ⚠️ Informations (2026-06-10) : 
     - Une mise à jour doit être faite pour la version ARM dont l'app ne s'ouvre pas.
-    - Une mise à jour doit être faite pour la version Intel concernant les tagframes et la segmentation automatique.
+    - Une mise à jour doit être faite pour la version Intel concernant la segmentation automatique qui ne fonctionne pas.
 
  
 
