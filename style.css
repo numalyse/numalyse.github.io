@@ -97,3 +97,10 @@ th {
 * {
   box-sizing: border-box;
 }
+
+video {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
