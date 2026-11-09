@@ -11,13 +11,11 @@ body {
   background-color: #ffffff;
   margin: 0;
   /* padding: 24px; */
-
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-        padding: 0 45px 45px;
-
-		margin: 0 auto;
+  box-sizing: border-box;
+	min-width: 200px;
+	max-width: 980px;
+  padding: 0 45px 45px;
+  margin: 0 auto;
 }
 
 .site-nav-wrap {
@@ -33,7 +31,7 @@ body {
   justify-content: space-between;
   gap: 12px;
   width: 100%;
-  max-width: 980px;
+  max-width: 890px;
   margin: 0 auto;
   padding: 8px 0;
   border-radius: 0;
