@@ -15,9 +15,16 @@ body {
 		box-sizing: border-box;
 		min-width: 200px;
 		max-width: 980px;
-        padding: 20px 45px 45px;
+        padding: 0 45px 45px;
 
 		margin: 0 auto;
+}
+
+.site-nav-wrap {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  background: rgba(246, 248, 250, 0.9);
+  padding: 0;
 }
 
 .site-nav {
@@ -25,9 +32,12 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  margin: 0 auto 10px;
-  padding: 4px 0;
+  width: 100%;
   max-width: 980px;
+  margin: 0 auto;
+  padding: 8px 0;
+  border-radius: 0;
+  box-sizing: border-box;
 }
 
 .nav-links {
@@ -44,12 +54,23 @@ body {
   color: #57606a;
   font-size: 0.95rem;
   font-weight: 500;
+  transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
 }
 
 .nav-link:hover {
   text-decoration: none;
-  background-color: #f6f8fa;
+  background-color: #eef2f7;
   color: #24292f;
+}
+
+.nav-link.active {
+  background-color: #e9eef6;
+  color: #1f2937;
+}
+
+.nav-link.active:hover {
+  background-color: #e3ebf7;
+  color: #1f2937;
 }
 
 /* .nav-link.active {
